@@ -1,4 +1,5 @@
-My personal repository## Hey 👋, I'm Ratnajeet Patil!  
+__________________________________________________________________________________________________________________________________________________________________________
+ Hey 👋, I'm Ratnajeet Patil!  
   
 
 <a href="https://github.com/ratnajeet00" target="_blank">
@@ -82,5 +83,4 @@ My personal repository## Hey 👋, I'm Ratnajeet Patil!
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+_____________________________________________________________________________________________________________________________________________________________
