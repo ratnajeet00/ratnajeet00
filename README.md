@@ -16,7 +16,7 @@ ________________________________________________________________________________
 💻 Software Developer: Passionate about building applications with React Native, Node.js, and full-stack development.
 📱 Mobile & Web Projects: Developed inventory management systems, smart attendance solutions, and dynamic web applications.
 🔍 Explorer: Interested in IoT, AI, and integrating cutting-edge technologies into practical solutions.
-🎓 Certifications: Advanced SQL, Java, JavaScript, Node.js, Python, and Cybersecurity.  
+🎓 Certifications: Advanced SQL, Java, JavaScript, Node.js, Python.  
   
 
 <br/>  
